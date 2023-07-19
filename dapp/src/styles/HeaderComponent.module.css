@@ -1,0 +1,49 @@
+.header {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #eeeeee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 50px;
+}
+
+.spinnerContainer {
+    margin-right: 10px;
+}
+
+.navItem {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navItemWide {
+    width: 200px; /* adjust this value as necessary */
+}
+
+.userAccount {
+    text-align: right;
+    background-color: #45B7F8;
+    padding: 5px;
+    border-radius: 7px;
+    padding-left: 0;
+}
+
+.userAddress {
+    background-color: #939393;
+    color: white;
+    opacity: 0.85;
+    padding: 5px;    
+    border-radius: 5px;
+    font-size: small;
+}
+
+.logoutButton {
+    background-color: #45B7F8;
+    color: white;
+    padding: 5px;
+    font-size: small;
+    cursor: pointer;
+    border: 0;
+}

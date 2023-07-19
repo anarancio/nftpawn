@@ -1,0 +1,47 @@
+.loanWidget {
+    padding: 10px;
+    background-color: #dbdbdb;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+.loanWidget__title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.loanWidget__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.loanWidget__content__left {
+    flex: 1;
+}
+
+.loanWidget__content__right {
+    flex: 0 0 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.actionButton {
+    margin-top: 10px;
+}
+
+.loanWidget__content__left__item {
+    margin-bottom: 10px;
+}
+
+.loanWidget__content__left__item__title {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.loanWidget__content__left__item__value {
+    font-size: 14px;
+    margin-left: 10px;
+}

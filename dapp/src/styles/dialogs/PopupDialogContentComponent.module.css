@@ -1,0 +1,8 @@
+.popupContent {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #eeeeee;
+    text-align: right;
+    max-height: 60vh;
+    overflow-y: auto;
+}

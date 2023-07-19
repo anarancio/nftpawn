@@ -1,0 +1,15 @@
+.actionButton {
+    margin-top: 10px;
+    background-color: #196BCA;
+    color: #fff;
+    font-family: Tahoma;
+    font-style: normal;
+    text-decoration: none;
+    border: 0px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.actionButton:hover {
+    background-color: #5482d0;
+}

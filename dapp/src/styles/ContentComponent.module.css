@@ -1,0 +1,7 @@
+.content {
+    flex-grow: 1;
+    background-color: #fff;
+    padding: 10px;
+    overflow-y: auto;
+    height: calc(100vh - 60px);
+}

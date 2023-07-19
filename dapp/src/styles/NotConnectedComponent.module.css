@@ -1,0 +1,73 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title {
+    font-family: Tahoma;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.subTitle {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.abstract {
+    margin-top: 30px;
+    color: #545454;
+}
+
+.abstract .highlight {
+    color: #000;
+    font-weight: 600;
+    margin-top: 20px;
+    font-size: large;
+}
+
+.metamaskButton {
+    background: linear-gradient(to right,#196BCA ,#8356f3);
+    background-color: #196BCA;
+    color: #fff;
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    padding: 14px 15px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.metamaskButton span{
+    margin-right: 15px;
+    display: block;
+    width: 29px;
+    height: 29px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    transform: rotate(0deg);
+}
+
+.metamaskButton:hover{
+    background: linear-gradient(to right,#5482d0 ,#9473f4);
+    background-color: #5482d0;
+}
+
+.metamaskButton:active{
+    transform: scale(0.95);
+}

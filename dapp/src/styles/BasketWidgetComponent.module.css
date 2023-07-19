@@ -1,0 +1,23 @@
+
+.basketWidget {
+    padding: 10px;
+    background-color: #dbdbdb;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+.basketWidget__title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.basketWidget__interestRates {
+    margin-top: 10px;
+}
+
+.basketWidget__interestRates__title {
+    font-weight: normal;
+    margin-bottom: 10px;
+}
