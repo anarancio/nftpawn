@@ -8,8 +8,9 @@ Our platform ensures secure, transparent, and prompt transactions, underpinned b
 Unleash the power of your NFTs with NFTPawn - your partner in NFT-powered financial innovation.
 Step into the future of lending today!
 
+PITCH PRESENTATION: https://vimeo.com/846482164?share=copy
+PRESENTATION: NFTPawn.pdf (located in the same folder of this file)
 DEMO VIDEO: https://vimeo.com/846477041?share=copy
-
 
 ## Contracts
 
