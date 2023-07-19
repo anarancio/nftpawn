@@ -8,6 +8,9 @@ Our platform ensures secure, transparent, and prompt transactions, underpinned b
 Unleash the power of your NFTs with NFTPawn - your partner in NFT-powered financial innovation.
 Step into the future of lending today!
 
+DEMO VIDEO: https://vimeo.com/846477041?share=copy
+
+
 ## Contracts
 
 A hardhat project with the Smart Contracts are located under ```lending-contract``` folder. See the README into that directory for install instructions.
